@@ -5,8 +5,9 @@
 - 😄 Pronouns: He/Him
 - Projects:
 - 1.)Gupt-Aarogya(Hackathon Project with my other three members)
-- 2.)Python Projects(Under Python-Projects)
-- 3.)Myntra Clone (under CSS) 
+- 2.)Python Projects(Under Python-Projects:---> ATM_Simulation,Rock_Paper_scissors,Hangman,Tkinter-Passwd_Generator etc projects)
+- 3.)Myntra Clone (under CSS)
+- 4.)Travel Form (under PHP)
   
 
 <!---
