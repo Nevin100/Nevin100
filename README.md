@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nevin100 (- 😄 Pronouns: He/Him)
 - 👀 I’m interested in Full Stack Development & Data Analysis
-- 📫 How to reach me: Connect with me on LinkedIn www.linkedin.com/in/nevin-bali-aa744a2b6
+My Portfolio: https://react-portfolio-nevin100.vercel.app/
 
 - Projects:
 - 1.)Gupt-Aarogya(Hackathon Project with my other three members)
