@@ -18,8 +18,7 @@
 📊 Skilled in data analysis and EDA with Power BI; interested in branching into data science and machine learning.<br/>
 
 🎉 Besides coding, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations.<br/> 
-
-
+<br/>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nevin-bali-aa744a2b6/) 
