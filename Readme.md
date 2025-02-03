@@ -6,7 +6,6 @@
   <h1> 🏆 Nevin Bali 🖥️</h1>
   <h3>🚀 Full-Stack Developer | React & Next.js Enthusiast | Data Science and ML Learner 🚀</h3>
 </div>
-
 <br/>
 
 🏆 I’m a BTech student passionate about technology and continuously evolving my skill set. I’m in my second year, exploring and building expertise across various fields in tech.
