@@ -14,9 +14,9 @@
 
 🖥️ Experienced in MERN stack development and proficient in Tailwind CSS, Bootstrap, and Shadcn for building responsive, elegant UIs.<br/>
 
-📊 Skilled in data analysis and Exploratory data Analysis with Power BI; interested in branching into data science and machine learning + Deep learning fundamentals .<br/>
+📊 Skilled in data analysis and Exploratory Data Analysis with Power BI; interested in branching into data science and machine learning + Deep learning fundamentals .<br/>
 
-🎉 Besides coding, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations.<br/> 
+🎉 Besides coding, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations with free lancing !!<br/> 
 <br/>
 
 ## 🌐Socials :
