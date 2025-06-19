@@ -20,7 +20,7 @@
 <br/>
 
 ## My Resume 📃 :
-<a href="https://drive.google.com/file/d/11ptlhjH7T6ZQta3pyVACvi6P_AZpwyvU/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/13rG8EzTr7nb_ZDNqiGaf462MoIDoGbUi/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume%20Preview-Click%20Here-success?style=for-the-badge&logo=googledrive" alt="Resume Button"/>
 </a>
 
