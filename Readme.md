@@ -16,7 +16,7 @@
 
 📊 Skilled in data analysis and Exploratory Data Analysis with Power BI; interested in branching into data science and machine learning + Deep learning fundamentals .<br/>
 
-🎉 Besides coding, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations with free lancing !!<br/> 
+🎉 Besides coding and programming, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations with free lancing !!<br/> 
 <br/>
 
 ## My Resume 📃 :
