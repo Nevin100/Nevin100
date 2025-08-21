@@ -7,6 +7,7 @@
   <h2>🚀 Full-Stack Web Developer || MERN & Nextjs Supremacy || Data Science and AI-ML Learner 🚀</h2>
 </div>
 <br/>
+<br/>
 
 🏆 I’m a BTech student passionate about technology and continuously evolving my skill set. I’m in my second year, exploring and building expertise across various fields in tech.
 
