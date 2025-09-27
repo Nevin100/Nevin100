@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=27&duration=4999&pause=1000&color=5775FF&background=FFFFFF00&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%8F%86+Hey+!+Myself+Nevin+Bali%E2%9C%8D%EF%B8%8F;%F0%9F%96%A5%EF%B8%8F+Full+Stack+Web+Developer++%26;A+Data+Analyst+!!%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fpixeljeff%2F765684581922947072%2Fsilent-chill-2024-in-my-restless-dreams-i-hear&psig=AOvVaw0zm-E_VsnM4bbvuIK8cr9o&ust=1759038756711000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCIkKSg-I8DFQAAAAAdAAAAABAs" 
        alt="Nevin Bali" width="full" height="450px" style="border-radius: 50%; margin-bottom: 20px;"/>
   <h1> 🏆🖥️ Nevin Bali 🖥️🏆</h1>
   <h2>🚀 Full-Stack Developer || MERN & Nextjs Supremacy || Data Science and AI-ML Learner 🚀</h2>
