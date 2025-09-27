@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=27&duration=4999&pause=1000&color=5775FF&background=FFFFFF00&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%8F%86+Hey+!+Myself+Nevin+Bali%E2%9C%8D%EF%B8%8F;%F0%9F%96%A5%EF%B8%8F+Full+Stack+Web+Developer++%26;A+Data+Analyst+!!%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif" 
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
        alt="Nevin Bali" width="full" height="full" style="border-radius: 50%; margin-bottom: 20px;"/>
   <h1> 🏆🖥️ Nevin Bali 🖥️🏆</h1>
   <h2>🚀 Full-Stack Developer || MERN & Nextjs Supremacy || Data Science and AI-ML Learner 🚀</h2>
