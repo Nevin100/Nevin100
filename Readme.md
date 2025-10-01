@@ -4,12 +4,11 @@
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
        alt="Nevin Bali" width="full" height="full" style="border-radius: 50%; margin-bottom: 20px;"/>
   <h1> 🏆🖥️ Nevin Bali 🖥️🏆</h1>
-  <h2>🚀 Full-Stack Developer || MERN & Nextjs Supremacy || Data Science and AI-ML Learner 🚀</h2>
+  <h2>🚀 Full-Stack Developer || DevOps + AI-ML || Pythoin Developer🚀</h2>
 </div>
 <br/>
-<br/>
 
-🏆 I’m a BTech student passionate about technology and continuously evolving my skill set. I’m in my second year, exploring and building expertise across various fields in tech.
+🏆 I’m a BTech student passionate about technology and continuously evolving my skill set. I’m in my pre-final year, exploring and building expertise across various fields in tech.
 
 🌱 I’m always on a journey to learn something new! I am currently diving into Next.js and TypeScript, exploring Prisma and Firebase for database management.<br/>
 
@@ -17,7 +16,7 @@
 
 📊 Skilled in data analysis and Exploratory Data Analysis with Power BI; interested in branching into data science and machine learning + Deep learning fundamentals .<br/>
 
-🎉 Besides coding and programming, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations with free lancing !!<br/> 
+🎉 Besides coding and programming, I enjoy working on side projects too. I am always open to open source and other contributions and collaborations with free-lancing !!<br/> 
 <br/>
 
 ## My Resume 📃 :
