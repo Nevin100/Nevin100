@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
        alt="Nevin Bali" width="full" height="full" style="border-radius: 50%; margin-bottom: 20px;"/>
   <h1> 🏆🖥️ Nevin Bali 🖥️🏆</h1>
-  <h2>🚀 Full-Stack Developer || DevOps + AI-ML || Pythoin Developer🚀</h2>
+  <h2>🚀 Full-Stack Developer || DevOps + AI-ML || Python-CPP Developer🚀</h2>
 </div>
 <br/>
 
