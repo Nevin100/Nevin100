@@ -91,8 +91,6 @@ I enjoy working on **real-world systems**, writing clean backend logic, and ship
 
 ---
 
----
-
 ## 🏆 GitHub Trophies
 
 <img src="https://github-trophies.vercel.app/?username=Nevin100&theme=juicyfresh&margin-w=10"/>
@@ -104,6 +102,3 @@ I enjoy working on **real-world systems**, writing clean backend logic, and ship
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Nevin100&icon=0&color=6"/>
-</p>
