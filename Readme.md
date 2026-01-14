@@ -72,7 +72,7 @@ I enjoy working on **real-world systems**, writing clean backend logic, and ship
 
 ## 📄 Resume
 
-<a href="https://drive.google.com/file/d/1Dtnr74RnVLa9KMAWiboq43DwC0GJhhJf/view" target="_blank">
+<a href="https://drive.google.com/file/d/1b6JlVv2VSWQwjyOtI8-EnSZTB7rQQ0yz/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive" />
 </a>
 
