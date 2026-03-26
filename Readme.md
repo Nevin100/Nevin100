@@ -70,14 +70,6 @@ I enjoy working on **real-world systems**, writing clean backend logic, and ship
 
 ---
 
-## 📄 Resume
-
-<a href="https://drive.google.com/file/d/1b6JlVv2VSWQwjyOtI8-EnSZTB7rQQ0yz/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive" />
-</a>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevin-bali-aa744a2b6/)
