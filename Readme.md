@@ -11,7 +11,7 @@
 
   <h1> Nevin Bali</h1>
   <h3>
-  Full Stack Developer || AWS & DevOps Oriented Learning || Cloud & Scalable Systems
+  Full Stack Developer & GenAI || AWS , DevOps & System Design  ||  Scalable Systems
 </h3>
 
 </div>
@@ -30,7 +30,7 @@ I enjoy working on **real-world systems**, writing clean backend logic, and ship
 ## 🧑‍💼 Professional Experience
 
 ### 🏢 **SDE Intern — Square Education Pvt. Ltd.**
-📅 *6 Months* (Freelancing ➜ Full-Time Internship)
+📅 *8 Months* (Freelancing ➜ Full-Time Internship)
 
 - Contributed to **production-grade codebases** used by real users  
 - Built and scaled **core MVP features** with clean architecture  
