@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech CSE @ MSIT Delhi** · CGPA: **9.67** · Graduating 2027
+🎓 **B.Tech CSE @ MSIT Delhi** · CGPA: **9.7** · Graduating 2027
 
 I build **production-ready full-stack systems** — from backend APIs and auth flows to Dockerized deployments and AI-powered features. I care about clean architecture, real observability, and shipping things that work.
 
