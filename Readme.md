@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&duration=4000&pause=800&color=5775FF&center=true&vCenter=true&width=700&height=60&lines=Hey!+I'm+Nevin+Bali+%F0%9F%91%8B;SDE+%7C+Full+Stack+%2B+DevOps+%2B+GenAI;Building+production-ready+systems" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&color=5775FF&center=true&vCenter=true&width=700&height=65&lines=Full+Stack+Engineer+%C2%B7+DevOps+%C2%B7+GenAI;Next.js+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS;Building+Invoicer+%E2%80%94+SaaS+for+Freelancers;MSIT+Delhi+%C2%B7+CGPA+9.67+%C2%B7+Dept.+Rank+Holder;Hackathon+Finalist+4x+%C2%B7+Mentor+%40+IIIT-Delhi%2C+%40IGDTUW-+Delhi%2C+%40MSIT-+Delhi;Shipping+production-ready+code+since+day+one" alt="Typing SVG" /></a>
   </a>
 </div>
 
