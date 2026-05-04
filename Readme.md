@@ -114,19 +114,6 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nevin100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevin100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nevin100&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nevin100&color=5775FF&style=flat-square&label=Profile+Views"/>
 </div>
