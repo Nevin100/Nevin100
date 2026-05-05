@@ -58,7 +58,8 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 
 - 3-stage Dockerized build + GitHub Actions CI/CD + Redis/Upstash caching + Winston logging
 - Razorpay payment + coupon system + invoice dispatch with QR codes via Resend
-- AI Evaluation section (Expense / Invoice / Client insights) — *in progress*
+- AI Evaluation section (Expense / Invoice / Client insights) 
+- Dedicated dashboard for Invoice, Expense, Clients
 
 ---
 
