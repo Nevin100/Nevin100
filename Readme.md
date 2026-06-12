@@ -45,9 +45,9 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 | SDE Intern | Square Education Pvt. Ltd. | Aug 2025 – Mar 2026 |
 | SDE Intern | Financea | Mar 2025 – Apr 2025 |
 
-**Square Education** — Owned the full production MVP: Next.js (TypeScript) + FastAPI + PostgreSQL + Docker + PayU. Handled live deployments, auth flows (Session + Google OAuth), and real-user data.
+**Square Education Pvt. Ltd.** - Owned the full production MVP: Next.js (TypeScript) + FastAPI + PostgreSQL + Docker + PayU. Handled live deployments, auth flows (Session + Google OAuth), and real-user data.
 
-**Financea** — Built data-driven dashboards and financial analysis workflows using Next.js + MongoDB + Recharts.
+**Financea** - Built data-driven dashboards and financial analysis workflows using Next.js + MongoDB + Recharts.
 
 ---
 
