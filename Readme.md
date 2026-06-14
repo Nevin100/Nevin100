@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&color=5775FF&center=true&vCenter=true&width=700&height=65&lines=Full+Stack+Engineer+%C2%B7+DevOps+%C2%B7+GenAI;Next.js+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS;Building+Invoicer+%E2%80%94+SaaS+for+Freelancers;MSIT+Delhi+%C2%B7+CGPA+9.67+%C2%B7+Dept.+Rank+Holder;Hackathon+Finalist+4x+%C2%B7+Mentor+%40+IIIT-Delhi%2C+%40IGDTUW-+Delhi%2C+%40MSIT-+Delhi;Shipping+production-ready+code+since+day+one" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&color=5775FF&center=true&vCenter=true&width=700&height=65&lines=Full+Stack+Engineer+%C2%B7+DevOps+%C2%B7+GenAI;Next.js+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS;Building+DevDocAI+%E2%80%94+AI+that+writes+your+docs;Building+Invoicer+%E2%80%94+SaaS+for+Freelancers;MSIT+Delhi+%C2%B7+CGPA+9.67+%C2%B7+Dept.+Rank+Holder;Hackathon+Finalist+4x+%C2%B7+Mentor+%40+IIIT-Delhi%2C+%40IGDTUW-+Delhi%2C+%40MSIT-+Delhi;Shipping+production-ready+code+since+day+one" alt="Typing SVG" /></a>
   </a>
 </div>
 
@@ -21,6 +21,12 @@
   <a href="mailto:nevinbali10@gmail.com">
     <img src="https://img.shields.io/badge/Email-nevinbali10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://dev.to/nevin100">
+    <img src="https://img.shields.io/badge/dev.to-nevin100-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://nevinbali.hashnode.dev">
+    <img src="https://img.shields.io/badge/Hashnode-nevinbali-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -31,8 +37,9 @@
 
 I build **production-ready full-stack systems** — from backend APIs and auth flows to Dockerized deployments and AI-powered features. I care about clean architecture, real observability, and shipping things that work.
 
-- 🔧 Currently working on **[Invoicer](https://invoicer.nevinbali.me)** — a SaaS invoicing platform for freelancers
-- 🤖 Interested in **LangGraph / agentic AI workflows** + **DevOps at scale**
+- 🤖 Currently building **[DevDocAI](https://github.com/Nevin100/DevDocxAI)** — a production multi-agent LangGraph system that auto-generates engineering docs from GitHub codebases
+- 🔧 Also working on **[Invoicer](https://invoicer.nevinbali.me)** — a SaaS invoicing platform for freelancers
+- 📝 Writing about it all on **[dev.to](https://dev.to/nevin100)** and **[Hashnode](https://nevinbali.hashnode.dev)** — building in public
 - 🏆 **Deputy Head of Dev @ GDGoC MSIT** · **Head of Dev @ Geek Room (150K+ community)**
 - 🧠 Hackathon finalist **4x** · Mentor at IIIT-Delhi, IGDTUW, MSIT
 
@@ -53,12 +60,23 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 
 ## 🚀 Projects
 
+### [DevDocAI](https://github.com/Nevin100/DevDocxAI) · *LangGraph · FastAPI · Groq · Qdrant · PostgreSQL · MCP · Redis*
+> Production multi-agent system that auto-generates and updates engineering documentation from GitHub codebases
+
+- Multi-agent LangGraph pipeline: AST parser → LLM doc generator → Brave researcher → HITL review → Qdrant publisher
+- GitHub OAuth + encrypted token storage + MCP server with 6 GitHub tools
+- Human-in-the-Loop checkpoint — devs approve docs before publish, HITL pause/resume via PostgreSQL checkpointing
+- PR merge webhook → auto re-triggers pipeline · Onboarding RAG chatbot over Cohere + Qdrant
+- LangSmith observability · Building in public — [read the series](https://dev.to/nevin100)
+
+---
+
 ### [Invoicer (v1)](https://invoicer.nevinbali.me) · *Next.js · TypeScript · MongoDB · Razorpay · Redis · Docker · CI/CD*
 > Production SaaS platform for freelancers with credit-based billing (Free/Pro tiers)
 
 - 3-stage Dockerized build + GitHub Actions CI/CD + Redis/Upstash caching + Winston logging
 - Razorpay payment + coupon system + invoice dispatch with QR codes via Resend
-- AI Evaluation section (Expense / Invoice / Client insights) 
+- AI Evaluation section (Expense / Invoice / Client insights)
 - Dedicated dashboard for Invoice, Expense, Clients
 
 ---
@@ -75,6 +93,19 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 > AI-powered interview prep — generates role-specific technical questions via LLM
 
 - Session-based practice with pinned questions + secure auth + fully responsive UI
+
+---
+
+## 📝 Writing — Building in Public
+
+I document everything I build. Follow the journey:
+
+| Series | Platform | Status |
+|--------|----------|--------|
+| [Building DevDocAI — Part 1: Foundation](https://dev.to/nevin100/building-devdocai-an-ai-that-writes-your-docs-part-1-foundation-5cjh) | dev.to | ✅ Live |
+| [Building DevDocAI — Part 2: LangGraph Core + Agents + RAG](https://dev.to/nevin100/-building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents--3j27) | dev.to | ✅ Live |
+| [Building DevDocAI — Part 3: Webhooks + Redis Cache](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-3-github-webhooks-redis-1mgk) | dev.to | ✅ Live |
+| Building DevDocAI — Part 1: Foundation | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
 
 ---
 
@@ -101,6 +132,7 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -110,8 +142,11 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **AI / GenAI**
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594E?style=flat&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat&logoColor=white)
 
 ---
 
