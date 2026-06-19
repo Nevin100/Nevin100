@@ -35,7 +35,7 @@
 
 🎓 **B.Tech CSE @ MSIT Delhi** · CGPA: **9.7** · Graduating 2027
 
-I build **production-ready full-stack systems** — from backend APIs and auth flows to Dockerized deployments and AI-powered features. I care about clean architecture, real observability, and shipping things that work.
+I build **production-ready full-stack systems** - from backend APIs and auth flows to Dockerized deployments and AI-powered features. I care about clean architecture, real observability, and shipping things that work.
 
 - 🤖 Currently building **[DevDocAI](https://github.com/Nevin100/DevDocxAI)** — a production multi-agent LangGraph system that auto-generates engineering docs from GitHub codebases
 - 🔧 Also working on **[Invoicer](https://invoicer.nevinbali.me)** — a SaaS invoicing platform for freelancers
