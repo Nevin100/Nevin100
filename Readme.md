@@ -90,9 +90,9 @@ I build **production-ready full-stack systems** - from backend APIs and auth flo
 ---
 
 ### [HireWire](https://github.com/Nevin100) · *MERN · Groq API (Llama v3) · JWT Auth*
-> AI-powered interview prep — generates role-specific technical questions via LLM
+- Engineered an AI-powered interview prep platform using Groq (Llama v3) to generate role- and domain-specific technical and non-technical questions across 10+ engineering domains, with session-based practice flows and pinned questions.
 
-- Session-based practice with pinned questions + secure auth + fully responsive UI
+- Implemented JWT + Bcrypt secure auth and a fully responsive UI optimized for mobile and desktop.
 
 ---
 
