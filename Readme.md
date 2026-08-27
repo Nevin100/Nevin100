@@ -27,6 +27,9 @@
   <a href="https://nevinbali.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-nevinbali-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
+   <a href="https://daily.dev/nevinbali100">
+    <img src="https://img.shields.io/badge/daily.dev-Nevinbali-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
 </div>
 
 ---
