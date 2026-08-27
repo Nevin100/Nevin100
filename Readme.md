@@ -108,7 +108,10 @@ I document everything I build. Follow the journey:
 | [Building DevDocAI — Part 1: Foundation](https://dev.to/nevin100/building-devdocai-an-ai-that-writes-your-docs-part-1-foundation-5cjh) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 2: LangGraph Core + Agents + RAG](https://dev.to/nevin100/-building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents--3j27) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 3: Webhooks + Redis Cache](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-3-github-webhooks-redis-1mgk) | dev.to | ✅ Live |
+| [Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-4-coming-back-closing-out-5aa9) | dev.to | ✅ Live |
 | Building DevDocAI — Part 1: Foundation | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
+| Building DevDocAI — Part 2: LangGraph Core + Agents + RAG | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
+
 
 ---
 
