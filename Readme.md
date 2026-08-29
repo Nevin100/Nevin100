@@ -111,6 +111,9 @@ I document everything I build. Follow the journey:
 | [Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-4-coming-back-closing-out-5aa9) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 5 - Backend Closed Out, GitHub OAuth Working End-to-End](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-5-backend-closed-out-github-216o) | dev.to | ✅ Live |
 
+---
+# Blogs and Articles:
+
 | Articles | Platform | Status |
 | Building DevDocAI — Part 1: Foundation | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
 | Building DevDocAI — Part 2: LangGraph Core + Agents + RAG | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
