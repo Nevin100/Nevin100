@@ -74,27 +74,29 @@ I build **production-ready full-stack systems** - from backend APIs and auth flo
 
 ---
 
+### [NewsMail](https://newsmail.nevinbali.me) · *MERN · AWS ECS Fargate · Cloudflare WAF · Groq · Resend · Redux Toolkit*
+> Production newsletter platform deployed on AWS with AI-generated content and bulk email dispatch
+
+- Deployed on AWS ECS Fargate with ECR, ALB path-based routing, and Cloudflare WAF — 99.9% uptime, zero server management overhead
+- GitHub Actions CI/CD (dev → main) with automated Docker builds and rolling deployments — manual deployment effort reduced ~100%
+- Groq-powered AI content generation with bulk email dispatch via Resend — verified 40–50 recipients/batch with admin dashboard
+- bcrypt hashing, two-tier rate limiting (auth + general), express-validator for NoSQL injection protection
+- AWS Secrets Manager for zero hardcoded credentials + Cheerio + Axios scraping pipeline with Excel.js export
+
+---
+
 ### [Invoicer (v1)](https://invoicer.nevinbali.me) · *Next.js · TypeScript · MongoDB · Razorpay · Redis · Docker · CI/CD*
 > Production SaaS platform for freelancers with credit-based billing (Free/Pro tiers)
 
-- 3-stage Dockerized build + GitHub Actions CI/CD + Redis/Upstash caching + Winston logging
-- Razorpay payment + coupon system + invoice dispatch with QR codes via Resend
-- AI Evaluation section (Expense / Invoice / Client insights)
-- Dedicated dashboard for Invoice, Expense, Clients
+- Credit-based billing (Free/Pro tiers) with Razorpay payments, coupon system, and Resend invoice dispatch with QR codes
+- 3-stage Dockerized build (node:20-alpine) + GitHub Actions CI/CD + Redis/Upstash caching — latency reduced ~400ms → 160–180ms (~55% faster), sub-100ms on cached hits
+- AI evaluation engine (Groq qwen3.6-27b + Tavily) — expense analysis, client insights, invoice trends, 2025–26 market benchmarks
+- Cookie Session + Google OAuth auth with Winston structured logging and role-based admin dashboard
 
 ---
 
-### [NewsMail](https://github.com/Nevin100) · *MERN · Groq API · Resend · Cheerio · Redux Toolkit*
-> Production newsletter platform with AI-generated content + bulk email dispatch
-
-- Groq-powered newsletter generation + web scraping pipeline (Cheerio + Axios)
-- Admin dashboard + Excel-based data export for analytics
-
----
-
-### [HireWire](https://github.com/Nevin100) · *MERN · Groq API (Llama v3) · JWT Auth*
+### [HireWire](https://hirewire.nevinbali.me) · *MERN · Groq API (Llama v3) · JWT Auth*
 - Engineered an AI-powered interview prep platform using Groq (Llama v3) to generate role- and domain-specific technical and non-technical questions across 10+ engineering domains, with session-based practice flows and pinned questions.
-
 - Implemented JWT + Bcrypt secure auth and a fully responsive UI optimized for mobile and desktop.
 
 ---
