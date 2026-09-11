@@ -120,11 +120,11 @@ I document everything I build. Follow the journey:
 
 | Articles | Platform | Status |
 |--------|----------|--------|
-| Building DevDocAI — Part 1: Foundation | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
-| Building DevDocAI — Part 2: LangGraph Core + Agents + RAG | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
-| Building DevDocAI — Part 3: GitHub Webhooks, Redis Caching | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
-| Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend| [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
-| Building DevDocAI — Part 5: Backend Closed Out, GitHub OAuth Working End-to-End | [Hashnode](https://nevinbali.hashnode.dev) | ✅ Live |
+| Building DevDocAI — Part 1: Foundation | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
+| Building DevDocAI — Part 2: LangGraph Core + Agents + RAG | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
+| Building DevDocAI — Part 3: GitHub Webhooks, Redis Caching | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
+| Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend| [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
+| Building DevDocAI — Part 5: Backend Closed Out, GitHub OAuth Working End-to-End | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
 
 ---
 
