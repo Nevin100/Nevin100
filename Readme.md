@@ -38,21 +38,23 @@
 
 🎓 **B.Tech CSE @ MSIT Delhi** · CGPA: **9.7** · Graduating 2027
 
-I build **production-ready full-stack systems** - from backend APIs and auth flows to Dockerized deployments and AI-powered features. I care about clean architecture, real observability, and shipping things that work.
+I build **production-ready full-stack systems** — from backend APIs and auth flows to Dockerized deployments and AI-powered features. I care about clean architecture, real observability, and shipping things that work.
 
-- 🤖 Completed **[DevDocAI](https://github.com/Nevin100/DevDocxAI)** — a production multi-agent LangGraph system that auto-generates engineering docs from GitHub codebases
-- 📝 published about it all on **[dev.to](https://dev.to/nevin100)** . **[Hashnode](https://nevinbali.hashnode.dev)** & **[Daily.dev](https://app.daily.dev/nevinbali100)**— building in public
-- 🔧 Also Launched **[Invoicer](https://invoicer.nevinbali.me)** — a SaaS invoicing platform for freelancers
----
-## 🏆 GeeKRoom Coomunit (150k + Developer Community) 🏆
-<br/>
-- 🏆 **Growth & Relations Operations Lead @[Geek Room (150K+ community)](https://www.geekroom.co.in/)**
-- 🏆 Hackathon Organized **11x+** · Leading and Building the **20+** chapters
-- 🏆 Hackathon finalist **4x** · Mentor at @IIIT-Delhi, @IGDTUW, @MSIT etc
-<br/>
-<img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/377001db-949d-47e3-a25e-f8ce0685c233" />
+- 🤖 Built **[DevDocAI](https://github.com/Nevin100/DevdocAI)** — a production multi-agent LangGraph system that auto-generates engineering docs from GitHub codebases
+- 📝 Building in public on **[dev.to](https://dev.to/nevin100)**, **[Hashnode](https://nevinbali.hashnode.dev)** & **[Daily.dev](https://app.daily.dev/nevinbali100)**
+- 🔧 Launched **[Invoicer](https://invoicer.nevinbali.me)** — a SaaS invoicing platform for freelancers
+
 ---
 
+## 🏆 GeekRoom Community (150k+ Developer Community) 🏆
+
+- 🏆 **Growth & Relations Operations Lead** @ [Geek Room](https://www.geekroom.co.in/)
+- 🏆 Organized **11+** hackathons · Leading and building **20+** chapters
+- 🏆 Hackathon finalist **4x** · Mentor at IIIT-Delhi, IGDTUW, MSIT etc.
+
+<img width="1366" height="601" alt="GeekRoom community" src="https://github.com/user-attachments/assets/377001db-949d-47e3-a25e-f8ce0685c233" />
+
+---
 
 ## 🏢 Experience
 
