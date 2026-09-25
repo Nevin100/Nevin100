@@ -44,11 +44,11 @@ I build **production-ready full-stack systems** - from backend APIs and auth flo
 - 📝 published about it all on **[dev.to](https://dev.to/nevin100)** . **[Hashnode](https://nevinbali.hashnode.dev)** & **[Daily.dev](https://app.daily.dev/nevinbali100)**— building in public
 - 🔧 Also Launched **[Invoicer](https://invoicer.nevinbali.me)** — a SaaS invoicing platform for freelancers
 ---
-### GEEKROOM (150k + Community)
+## 🏆 GeeKRoom Coomunit (150k + Developer Community) 🏆
 <br/>
 - 🏆 **Growth & Relations Operations Lead @[Geek Room (150K+ community)](https://www.geekroom.co.in/)**
 - 🏆 Hackathon Organized **11x+** · Leading and Building the **20+** chapters
-- 🧠 Hackathon finalist **4x** · Mentor at @IIIT-Delhi, @IGDTUW, @MSIT etc
+- 🏆 Hackathon finalist **4x** · Mentor at @IIIT-Delhi, @IGDTUW, @MSIT etc
 <br/>
 <img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/377001db-949d-47e3-a25e-f8ce0685c233" />
 ---
