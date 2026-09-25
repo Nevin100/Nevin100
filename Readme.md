@@ -63,14 +63,17 @@ I build **production-ready full-stack systems** - from backend APIs and auth flo
 
 ## 🚀 Projects
 
-### [DevDocAI](https://github.com/Nevin100/DevDocxAI) · *LangGraph · FastAPI · Groq · Qdrant · PostgreSQL · MCP · Redis*
-> Production multi-agent system that auto-generates and updates engineering documentation from GitHub codebases
+### [DevDocAI](https://github.com/Nevin100/DevdocAI) · *LangGraph · FastAPI · Groq · Qdrant · PostgreSQL · MCP · Redis*
+> Production multi-agent system that auto-generates and updates engineering documentation from GitHub codebases — live at [devdocai.nevinbali.me](https://devdocai.nevinbali.me)
 
-- Multi-agent LangGraph pipeline: AST parser → LLM doc generator → Brave researcher → HITL review → Qdrant publisher
+- Multi-agent LangGraph pipeline: diff-aware AST parser → batched LLM doc generator → Tavily researcher → HITL review → Qdrant publisher
 - GitHub OAuth + encrypted token storage + MCP server with 6 GitHub tools
-- Human-in-the-Loop checkpoint — devs approve docs before publish, HITL pause/resume via PostgreSQL checkpointing
-- PR merge webhook → auto re-triggers pipeline · Onboarding RAG chatbot over Cohere + Qdrant
-- LangSmith observability · Building in public — [read the series](https://dev.to/nevin100)
+- Human-in-the-Loop checkpoint — devs approve docs before publishing, pause/resume via PostgreSQL checkpointing
+- PR merge webhook → incremental re-trigger on changed files only · Onboarding RAG chatbot over Qdrant
+- Multi-key Groq round-robin pool (6 keys, 429-resilient) · 40-file repo gate · LangSmith observability
+- Building in public — [read the series](https://dev.to/nevin100)
+
+<img width="1253" height="602" alt="landing page" src="https://github.com/user-attachments/assets/c5e3a375-6478-426b-bd64-b4299d149dbc" />
 
 ---
 
@@ -83,6 +86,8 @@ I build **production-ready full-stack systems** - from backend APIs and auth flo
 - bcrypt hashing, two-tier rate limiting (auth + general), express-validator for NoSQL injection protection
 - AWS Secrets Manager for zero hardcoded credentials + Cheerio + Axios scraping pipeline with Excel.js export
 
+<img width="1366" height="610" alt="newsmail" src="https://github.com/user-attachments/assets/1a76a5bd-932f-4615-8b4d-bb62770b6995" />
+
 ---
 
 ### [Invoicer (v1)](https://invoicer.nevinbali.me) · *Next.js · TypeScript · MongoDB · Razorpay · Redis · Docker · CI/CD*
@@ -93,11 +98,15 @@ I build **production-ready full-stack systems** - from backend APIs and auth flo
 - AI evaluation engine (Groq qwen3.6-27b + Tavily) — expense analysis, client insights, invoice trends, 2025–26 market benchmarks
 - Cookie Session + Google OAuth auth with Winston structured logging and role-based admin dashboard
 
+<img width="1062" height="606" alt="image" src="https://github.com/user-attachments/assets/8de3e4e1-2536-47fa-9b68-566f455a8d3e" />
+
 ---
 
 ### [HireWire](https://hirewire.nevinbali.me) · *MERN · Groq API (Llama v3) · JWT Auth*
 - Engineered an AI-powered interview prep platform using Groq (Llama v3) to generate role- and domain-specific technical and non-technical questions across 10+ engineering domains, with session-based practice flows and pinned questions.
 - Implemented JWT + Bcrypt secure auth and a fully responsive UI optimized for mobile and desktop.
+
+<img width="1366" height="598" alt="image" src="https://github.com/user-attachments/assets/8c4fab58-95c5-4c68-abfd-fa454128ea7d" />
 
 ---
 
@@ -113,6 +122,7 @@ I document everything I build. Follow the journey:
 | [Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-4-coming-back-closing-out-5aa9) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 5: Backend Closed Out, GitHub OAuth Working End-to-End](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-5-backend-closed-out-github-216o) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 6: The Full Loop Works. Now: Deployment... ](https://dev.to/nevin100/building-devdocai-part-6-the-full-loop-works-now-deployment-3a49) | dev.to | ✅ Live |
+| From Laptop to Production: The Deployment Gauntlet](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-7-from-laptop-to-production-3p4m) | dev.to | ✅ Live |
 
 
 ---
@@ -125,7 +135,8 @@ I document everything I build. Follow the journey:
 | Building DevDocAI — Part 3: GitHub Webhooks, Redis Caching | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
 | Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend| [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
 | Building DevDocAI — Part 5: Backend Closed Out, GitHub OAuth Working End-to-End | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
-
+| Building DevDocAI — Part 6: The Full Loop Works. Now: Deployment...  | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
+| Building DevDocAI — Part 7: From Laptop to Production: The Deployment Gauntlet | [Hashnode](https://hashnode.com/@nevin100) | ✅ Live |
 ---
 
 ## 🛠️ Tech Stack
