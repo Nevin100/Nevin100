@@ -51,9 +51,10 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 - 🏆 **Growth & Relations Operations Lead** @ [Geek Room](https://www.geekroom.co.in/)
 - 🏆 Organized **11+** hackathons · Leading and building **20+** chapters
 - 🏆 Hackathon finalist **4x** · Mentor at IIIT-Delhi, IGDTUW, MSIT etc.
-
-<img width="1366" height="601" alt="GeekRoom community" src="https://github.com/user-attachments/assets/377001db-949d-47e3-a25e-f8ce0685c233" />
-
+  
+<a href="https://geekroom.co.in/">
+   <img width="1366" height="601" alt="GeekRoom community" src="https://github.com/user-attachments/assets/377001db-949d-47e3-a25e-f8ce0685c233" />
+</a>
 ---
 
 ## 🏢 Experience
