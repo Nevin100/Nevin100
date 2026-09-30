@@ -55,7 +55,8 @@ I build **production-ready full-stack systems** — from backend APIs and auth f
 <a href="https://geekroom.co.in/">
    <img width="1366" height="601" alt="GeekRoom community" src="https://github.com/user-attachments/assets/377001db-949d-47e3-a25e-f8ce0685c233" />
 </a>
----
+
+</hr>
 
 ## 🏢 Experience
 
