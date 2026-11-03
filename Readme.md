@@ -134,7 +134,7 @@ I document everything I build. Follow the journey:
 | [Building DevDocAI — Part 4: Coming Back, Closing Out the Backend, and Laying Down the Frontend](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-4-coming-back-closing-out-5aa9) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 5: Backend Closed Out, GitHub OAuth Working End-to-End](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-5-backend-closed-out-github-216o) | dev.to | ✅ Live |
 | [Building DevDocAI — Part 6: The Full Loop Works. Now: Deployment... ](https://dev.to/nevin100/building-devdocai-part-6-the-full-loop-works-now-deployment-3a49) | dev.to | ✅ Live |
-| From Laptop to Production: The Deployment Gauntlet](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-7-from-laptop-to-production-3p4m) | dev.to | ✅ Live |
+| [Building DevDocAI — Part 7: From Laptop to Production: The Deployment Gauntlet](https://dev.to/nevin100/building-devdocai-a-production-multi-agent-langgraph-system-part-7-from-laptop-to-production-3p4m) | dev.to | ✅ Live |
 
 
 ---
